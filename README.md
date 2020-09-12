@@ -1,4 +1,4 @@
-<img alt="Spilled Milk Logo" src="Shttps://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/Spilled%20Milk%20Twitter%20Banner.png?raw=true"/>
+<img alt="Spilled Milk Logo" src="https://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/Spilled%20Milk%20Twitter%20Banner.png?raw=true"/>
 
 # WELCOME - I'm **GLAD** you stopped by...
 
