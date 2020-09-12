@@ -4,7 +4,9 @@
 
 * 🔭 I’m currently working on p5.js and WEBGL
 * 🌱 I’m currently learning p5.js and WEBGL
-* 📫 How to reach me: [Parker Smart](mailto:psmart@spilledmilk.com?subject=LOVE Your GitHub Repos...)
+* 📫 How to reach me: [Parker Smart](<mailto:psmart@spilledmilk.com?subject=LOVE Your GitHub Repos...>)
+* 🎮 On Xbox and Playstation use the same user name.
+* 🕹️ Been playing since PONG
 
 <!--
 **SpilledMilkCOM/SpilledMilkCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
