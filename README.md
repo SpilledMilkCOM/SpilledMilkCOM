@@ -1,4 +1,10 @@
-### Hi there 👋
+# WELCOME
+
+## I'm glad you stopped by
+
+* 🔭 I’m currently working on p5.js and WEBGL
+* 🌱 I’m currently learning p5.js and WEBGL
+* 📫 How to reach me: [Parker Smart](psmart@spilledmilk.com)
 
 <!--
 **SpilledMilkCOM/SpilledMilkCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
