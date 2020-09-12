@@ -4,8 +4,7 @@
 
 * 🔭 I’m currently working on [p5.js](https://p5js.org) and WEBGL
 * 🌱 I’m currently learning [p5.js](https://p5js.org) and [WebGL Fundamentals](https://webglfundamentals.org/)
-* 📫 How to reach me: [Parker Smart](<mailto:psmart@spilledmilk.com?subject=LOVE Your GitHub Repos...>)
-* 🎮 On Xbox and Playstation use the same user name.
+* 🎮 On Xbox and Playstation my gamer tag is `SpilledMilkCOM`
 * 🕹️ Been playing since PONG
 * Private Repos:
   * www.CheckOutMyStuff.net
