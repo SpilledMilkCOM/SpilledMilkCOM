@@ -1,6 +1,8 @@
 # WELCOME
 
-## I'm glad you stopped by
+![Spilled Milk Welcome](images/Spilled Milk Twitter Banner.png)
+
+## I'm **GLAD** you stopped by
 
 * 🔭 I’m currently working on p5.js and WEBGL
 * 🌱 I’m currently learning p5.js and WEBGL
