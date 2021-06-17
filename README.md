@@ -5,7 +5,7 @@
 * 🔧 I’m currently working with [p5.js](https://p5js.org) and WEBGL **[demo page](https://spilledmilkcom.github.io/p5Samples/)**
 * 📚 I’m currently learning [p5.js](https://p5js.org) and [WebGL Fundamentals](https://webglfundamentals.org/)
 * 🎮 On Xbox and Playstation my gamer tag is `SpilledMilkCOM`
-* 🕹️ Been playing since PONG
+* 🕹️ Been playing since PONG *(so get over yourself n00b)*
 
 |     | Home of... | Repo |
 |-----|------------|--|
