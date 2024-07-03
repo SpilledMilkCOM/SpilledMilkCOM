@@ -13,6 +13,7 @@
 | <img alt="Check Out My Stuff Logo" src="https://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/CheckOutMyStuffLogo50x50.png?raw=true" width="50px" /> | [Check Out My Stuff (.net)](https://checkoutmystuff.net/) | 🕵️ |
 | <img alt="Idiot Driver Logo" src="https://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/IdiotDriver.png?raw=true" width="50px" />| [Idiot Driver App](https://twitter.com/IdiotDriverApp) | 🕵️ |
 | <img alt="Parker Smart Logo" src="https://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/PDS.png?raw=true" width="50px" /> | [ParkerSmart.com](https://ParkerSmart.com/) | <a href="https://github.com/SpilledMilkCOM/ParkerSmart"><img alt="GitHub Logo" src="https://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/GitHub-Mark-32px.png?raw=true" /></a> |
+| <img alt="Stack of books" src="https://pluspng.com/img-png/book-png-book-stack-png-image-25686-1024.png" width="50px" /> | [Reference](https://github.com/SpilledMilkCOM/refdocs) | <a href="https://github.com/SpilledMilkCOM/refdocs"><img alt="GitHub Logo" src="https://github.com/SpilledMilkCOM/SpilledMilkCOM/blob/master/images/GitHub-Mark-32px.png?raw=true" /></a> |
 
 *[📖 Emoji Reference](https://emojipedia.org/)*
 <!--
